@@ -12,10 +12,10 @@ If you know of any other public Vaultwarden instances, feel free to submit a **p
 
 ## Public Vaultwarden Instances  
 
-| Instance URL | Uptime | Public | Notes |  
+| Instance URL | Uptime | Access | Notes |  
 |-------------|--------|-------|-------|  
 | [bitwarden.net](https://bitwarden.net) | [Uptime](https://up.obco.pro/status/vaultwarden-net) | Yes | Community-maintained |  
-| [bitwarden.uk](https://bitwarden.uk) | - | Yes | UK-based community instance |  
+| [bitwarden.uk](https://bitwarden.uk) | No Monitoring | Yes | UK-based community instance |  
 | [bitwarden.garudalinux.org](https://bitwarden.garudalinux.org) | [Uptime](https://status.garudalinux.org/status/garuda) | Yes | Run by Garuda Linux |  
 | [notavault.com](https://notavault.com) | [Uptime](https://status.whatever.social) | Yes | Run by whatever.social |
 | [pass.projectsegfau.lt](https://pass.projectsegfau.lt) | [Uptime](https://status.projectsegfau.lt/) | Yes | Run by projectsegfau.lt |
@@ -24,8 +24,8 @@ If you know of any other public Vaultwarden instances, feel free to submit a **p
 | [vw.vern.cc](https://vw.vern.cc) | [Uptime](https://status.vern.cc) | Yes | Run by vern.cc |
 | [vault.ramondia.net](https://vault.ramondia.net) | [Uptime](https://status.ramondia.net) | Yes | Run by ramondia.net |
 | [vault.reallyaweso.me](https://vault.reallyaweso.me) | [Uptime](https://uptime.reallyaweso.me/) | Yes | Run by reallyaweso.me |
-| [vault.leptons.xyz](https://vault.leptons.xyz) | - | Invite Only | Run by leptons.xyz |
-| **vaultwarden.us** | - | Down | Previously available, now down |  
+| [vault.leptons.xyz](https://vault.leptons.xyz) | No Monitoring | Invite Only | Run by leptons.xyz |
+| vaultwarden.us | Inactive | Inactive | Previously available, now down |  
 
 ## Main Concerns  
 - **Trustworthiness**: The administrators of these instances have access to your **encrypted** vault but may still collect metadata.  
