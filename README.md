@@ -12,7 +12,7 @@ The listed instances are **privately operated**, and neither **uptime nor data i
 ## Contributing  
 If you know of any other public Vaultwarden instances, feel free to submit a **pull request** or open an **issue** to keep this list updated.  
 [Please Contibue on the main repo on codeberg if possible](https://codeberg.org/marvin1099/VaultwardenInstanceList).  
-[The github repo is a mirror of the codeberg repo one](https://github.com/marvin1099/VaultwardenInstanceList).
+[The github repo is a mirror of the codeberg repo](https://github.com/marvin1099/VaultwardenInstanceList).
 
 ## Public Vaultwarden Instances  
 
