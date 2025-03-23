@@ -16,24 +16,26 @@ If you know of any other public Vaultwarden instances, feel free to submit a **p
 
 ## Public Vaultwarden Instances  
 
-| Instance URL | Uptime | Access | Notes |  
-|-------------|--------|-------|-------|  
-| [bitwarden.net](https://bitwarden.net) | [Uptime](https://up.obco.pro/status/vaultwarden-net) | Public | Community-maintained |  
-| [bitwarden.uk](https://bitwarden.uk) | No Monitoring | Public | UK-based community instance |  
-| [bitwarden.garudalinux.org](https://bitwarden.garudalinux.org) | [Uptime](https://status.garudalinux.org/status/garuda) | Public | Run by Garuda Linux |  
-| [notavault.com](https://notavault.com) | [Uptime](https://status.whatever.social) | Public | Run by whatever.social |
-| [pass.projectsegfau.lt](https://pass.projectsegfau.lt) | [Uptime](https://status.projectsegfau.lt/) | Public | Run by projectsegfau.lt |
-| [vault.pwbox.de](https://vault.pwbox.de) | [Uptime](https://status.adminforge.de) | Public | Run by adminforge.de |
-| [passwd.hostux.net](https://passwd.hostux.net) | [Uptime](https://uptime.hostux.net) | Public | Run by hostux.network |
-| [vw.vern.cc](https://vw.vern.cc) | [Uptime](https://status.vern.cc) | Public | Run by vern.cc |
-| [vault.ramondia.net](https://vault.ramondia.net) | [Uptime](https://status.ramondia.net) | Public | Run by ramondia.net |
-| [vault.reallyaweso.me](https://vault.reallyaweso.me) | [Uptime](https://uptime.reallyaweso.me/) | Public | Run by reallyaweso.me |
-| [vault.leptons.xyz](https://vault.leptons.xyz) | No Monitoring | Invite Only | Run by leptons.xyz |
-| vaultwarden.us | Inactive | Inactive | Previously available, now down |  
+### None of these servers are maintained or run by vaultwarden, they are all community maintained
+
+| Instance URL | Uptime | Access | Run by | Risk Assessment | Risk Rating |
+|-------------|--------|-------|-------|------|------|
+| [vault.vaultwarden.net](https://vault.vaultwarden.net) | [Uptime](https://up.obco.pro/status/vaultwarden-net) | Public | [vaultwarden.net](https://vaultwarden.net) | Running without complaints for a while | Probably low |  
+| [vault.vaultwarden.uk](https://vault.vaultwarden.uk) | No Monitoring | Public | [vaultwarden.uk](https://vaultwarden.uk) | Running without complaints for a while | Probably low | 
+| [bitwarden.garudalinux.org](https://bitwarden.garudalinux.org) | [Uptime](https://status.garudalinux.org/status/garuda) | Public | [start.garudalinux.org](https://start.garudalinux.org) | Lots of private services on their site | Probably low |  
+| [notavault.com](https://notavault.com) | [Uptime](https://status.whatever.social) | Public | [whatever.social](https://whatever.social) | Lots of private services on their site | Probably low |  
+| [pass.projectsegfau.lt](https://pass.projectsegfau.lt) | [Uptime](https://status.projectsegfau.lt/) | Public | [projectsegfau.lt](https://projectsegfau.lt) | Lots of private services on their site | Probably low |  
+| [vault.pwbox.de](https://vault.pwbox.de) | [Uptime](https://status.adminforge.de) | Public | [adminforge.de](https://adminforge.de) | Lots of private services on their site | Probably low |  
+| [passwd.hostux.net](https://passwd.hostux.net) | [Uptime](https://uptime.hostux.net) | Public | [hostux.network](https://hostux.network) | Lots of private services on their site | Probably low |  
+| [vw.vern.cc](https://vw.vern.cc) | [Uptime](https://status.vern.cc) | Public | [vern.cc](https://vern.cc) | Lots of private services on their site | Probably low |  
+| [vault.ramondia.net](https://vault.ramondia.net) | [Uptime](https://status.ramondia.net) | Public | [ramondia.net](https://ramondia.net) | Lots of private services on their site | Probably low |  
+| [vault.reallyaweso.me](https://vault.reallyaweso.me) | [Uptime](https://uptime.reallyaweso.me/) | Public | [reallyaweso.me](https://reallyaweso.me) | Lots of private services on their site | Probably low |  
+| [vault.leptons.xyz](https://vault.leptons.xyz) | No Monitoring | Invite Only | [leptons.xyz](https://leptons.xyz) | Some of private services on their site | Probably low |  
+| vaultwarden.us | Inactive | Inactive | Inactive | Inactive | Inactive |
 
 
 ## Main Concerns  
-- **Trustworthiness**: The administrators of these instances have access to your **encrypted** vault but may still collect metadata.  
+- **Trustworthiness**: The administrators of these instances could have modified variants of vaultwarden that would collect the master password.  
 - **Security Risks**: Public servers may not be well-maintained, leading to potential vulnerabilities.  
 - **Uptime & Data Loss**: No guarantees are made that these services will remain online or keep your data safe.  
 
