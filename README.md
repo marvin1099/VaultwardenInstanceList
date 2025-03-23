@@ -1,4 +1,4 @@
-# VaultwardenInstanceList
+# Vaultwarden Instance List
 
 **An unofficial list of public Vaultwarden instances.**  
 
