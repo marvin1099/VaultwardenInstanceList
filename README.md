@@ -50,7 +50,6 @@ Even when using a **public Vaultwarden instance**, it's still preferable to usin
 ## VS Official Bitwarden Server
 Vaultwarden offers **many premium Bitwarden features for free**, such as:  
 
-- **Unlimited device sync** (official Bitwarden limits this for free accounts)  
 - **Built-in TOTP (2FA) code storage** (Bitwarden requires a paid plan)  
 - **File attachments** (official Bitwarden requires a paid plan)  
 - **Custom server settings & performance tweaks** (admin server settings for hoster)  
